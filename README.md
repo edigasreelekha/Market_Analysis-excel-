@@ -69,12 +69,12 @@ This project also served as an opportunity to rewind and sharpen my Excel skills
 * **Previous Experience:** Built upon foundational skills from SQL for data querying and Power BI for advanced dashboarding. 💻
 
 ## Data Source
-[Link]()
+[Link](https://github.com/edigasreelekha/Market_Analysis-excel-/blob/main/Marketing+Analysis.xlsx)
 ## Project Report
 
 A detailed analysis report, including all charts and insights, has been compiled into a professional PDF document.
 
-[] 🔗
+[https://github.com/edigasreelekha/Market_Analysis-excel-/blob/main/Market%20Analysis%20Presentation.pdf] 🔗
 
 ## How to Explore
 
