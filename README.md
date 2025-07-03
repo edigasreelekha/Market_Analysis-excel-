@@ -74,7 +74,7 @@ This project also served as an opportunity to rewind and sharpen my Excel skills
 
 A detailed analysis report, including all charts and insights, has been compiled into a professional PDF document.
 
-[https://github.com/edigasreelekha/Market_Analysis-excel-/blob/main/Market%20Analysis%20Presentation.pdf] 🔗
+[https://drive.google.com/file/d/1DR9iA3mOFnTqYo3diPid8Ji83Nxvs1qO/view?usp=sharing] 🔗
 
 ## How to Explore
 
